@@ -15,6 +15,13 @@
       "when": 1749023260709,
       "tag": "0001_loving_unus",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1749023514893,
+      "tag": "0002_late_sharon_ventura",
+      "breakpoints": true
     }
   ]
 }
